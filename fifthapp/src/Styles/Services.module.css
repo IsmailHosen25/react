@@ -1,0 +1,14 @@
+.service{
+padding: 3rem;
+width: 100%;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.innerservice{
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #fff;
+}

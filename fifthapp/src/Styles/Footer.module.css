@@ -1,0 +1,12 @@
+.footer{
+    width: 100%;
+    padding: 1.2rem 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #313B45;
+}
+.para{
+    font-size: 1.3rem;
+    color: #fff;
+}

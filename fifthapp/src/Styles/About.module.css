@@ -1,0 +1,26 @@
+.about{
+    width: 100%;
+    padding: 3rem;
+    background-color: #2980B9;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 3rem;
+}
+.heading{
+    color: #fff;
+    word-spacing: 8px;
+    letter-spacing: 15px;
+    font-size: 3rem;
+}
+.paragrap{
+    color: #fff;
+    font-size: 2rem;
+}
+.socialmedia{
+    width: 20%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

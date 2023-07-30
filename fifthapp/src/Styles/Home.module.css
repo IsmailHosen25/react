@@ -1,0 +1,54 @@
+.home{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center;
+    background-color: #2980B9;
+    padding-top: 15rem;
+    position: relative;
+}
+.homecontaint{
+    width: 70%;
+    background-color: #2980B9;
+    position: relative;
+    overflow: hidden;
+    padding-bottom: 10rem;
+}
+.btn{
+    background-color: transparent;
+    padding:0.4rem 1rem;
+    border: 2px solid #fff;
+}
+.para{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap:3rem;
+    padding-bottom: 3rem;
+}
+.link{
+    color:#fff;
+    text-decoration: none;
+}
+h1{
+    font-size: 5rem;
+    color:#fff;
+}
+h2{
+    font-size: 3rem;
+    color:#fff;
+}
+.img1{
+    width: 30%;
+    position: absolute;
+    top:20%;
+    left: 12%;
+}
+.img2{
+    width: 18%;
+    position: absolute;
+    top:0%;
+    right:15%;
+}

@@ -1,0 +1,24 @@
+.text{
+    width: 100%;
+    background-color: #EAE6E3;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 3rem;
+}
+p{
+    width: 60%;
+    font-size: 3rem;
+    text-align: center;
+    color: #A4A29E;
+}
+.span1{
+    background-color: #2BA4CD;
+    color:#fff;
+}
+.span2{
+    color:#2BA4CD;
+}
+.span3{
+    color:#313B45;
+}
