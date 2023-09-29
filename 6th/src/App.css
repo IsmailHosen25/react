@@ -1,0 +1,30 @@
+div{
+  color: black;
+}
+.nav{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 2rem;
+}
+.form{
+  padding: 5rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 1rem;
+}
+.inerror{
+  color: red;
+  font-size: 0.8rem;
+}
+img{
+  width: 10rem;
+  height: 10rem;
+  border-radius: 50%;
+  border: 1px solid black;
+}
+.inp{
+  display: none;
+}
