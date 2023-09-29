@@ -1,0 +1,33 @@
+.left{
+    width: 50%;
+    height: 100%;
+    padding: 1rem 0rem 1.5rem 3rem;
+    background-color: #4DC3FF;
+    display: flex;
+    flex-direction: column;
+    justify-content:space-between;
+    align-items: self-start;
+
+}
+.llogo{
+    font-size: 3rem;
+    color: #fff;
+    padding-top: 1rem;
+    cursor: pointer;
+}
+.welcome{
+    font-size: 4rem;
+    color: #fff;
+    padding-bottom: 1rem;
+}
+.lp{
+    width: 80%;
+    font-size: 2rem;
+    color: #fff;
+}
+@media (max-width:768px) {
+    .left{
+        width: 100%;
+    }
+
+ } 
